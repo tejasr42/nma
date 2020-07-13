@@ -1,2 +1,3 @@
-# nma
-Neuromatch Academy 2020
+# Neuromatch Academy 2020
+Colab notebooks
+
